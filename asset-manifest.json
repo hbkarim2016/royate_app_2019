@@ -1,16 +1,16 @@
 {
-  "main.css": "/royate_app_2019/static/css/main.fad9a23a.chunk.css",
-  "main.js": "/royate_app_2019/static/js/main.0bdeb428.chunk.js",
-  "main.js.map": "/royate_app_2019/static/js/main.0bdeb428.chunk.js.map",
+  "main.css": "/royate_app_2019/static/css/main.3ec21f0c.chunk.css",
+  "main.js": "/royate_app_2019/static/js/main.d0c833e2.chunk.js",
+  "main.js.map": "/royate_app_2019/static/js/main.d0c833e2.chunk.js.map",
   "static/css/1.a712b75c.chunk.css": "/royate_app_2019/static/css/1.a712b75c.chunk.css",
   "static/js/1.11749645.chunk.js": "/royate_app_2019/static/js/1.11749645.chunk.js",
   "static/js/1.11749645.chunk.js.map": "/royate_app_2019/static/js/1.11749645.chunk.js.map",
   "runtime~main.js": "/royate_app_2019/static/js/runtime~main.26d88eac.js",
   "runtime~main.js.map": "/royate_app_2019/static/js/runtime~main.26d88eac.js.map",
-  "static/media/font-awesome.min.css": "/royate_app_2019/static/media/fontawesome-webfont.674f50d2.eot",
+  "static/media/font-awesome.min.css": "/royate_app_2019/static/media/fontawesome-webfont.af7ae505.woff2",
+  "static/css/main.3ec21f0c.chunk.css.map": "/royate_app_2019/static/css/main.3ec21f0c.chunk.css.map",
   "static/css/1.a712b75c.chunk.css.map": "/royate_app_2019/static/css/1.a712b75c.chunk.css.map",
-  "static/css/main.fad9a23a.chunk.css.map": "/royate_app_2019/static/css/main.fad9a23a.chunk.css.map",
   "index.html": "/royate_app_2019/index.html",
-  "precache-manifest.d1db0c317f0677506b4a0632cde751ea.js": "/royate_app_2019/precache-manifest.d1db0c317f0677506b4a0632cde751ea.js",
+  "precache-manifest.28c4e61942132e42fb6609a46d0cf5ab.js": "/royate_app_2019/precache-manifest.28c4e61942132e42fb6609a46d0cf5ab.js",
   "service-worker.js": "/royate_app_2019/service-worker.js"
 }
