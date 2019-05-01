@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/royate_app_2019/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "dcd48c5bb5c145082c6a",
+    "revision": "0bdeb4287a14aa01c06c",
     "url": "/royate_app_2019/static/css/main.fad9a23a.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/royate_app_2019/static/js/runtime~main.26d88eac.js"
   },
   {
-    "revision": "dcd48c5bb5c145082c6a",
-    "url": "/royate_app_2019/static/js/main.dcd48c5b.chunk.js"
-  },
-  {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/royate_app_2019/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "0bdeb4287a14aa01c06c",
+    "url": "/royate_app_2019/static/js/main.0bdeb428.chunk.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/royate_app_2019/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/royate_app_2019/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/royate_app_2019/static/css/1.a712b75c.chunk.css"
   },
   {
-    "revision": "2b992e180e6a310e88f7d2a4a6e6bf41",
+    "revision": "2dd6b414c179642109cdae1812cb4427",
     "url": "/royate_app_2019/index.html"
   }
 ];
