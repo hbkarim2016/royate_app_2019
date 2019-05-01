@@ -193,7 +193,7 @@ $(document).ready(function() {
     $("html, body").animate({ scrollTop: 0 }, 1000);
   });
   $(".loadingPage")
-    .delay(5000)
+    .delay(10000)
     .fadeOut();
 
   $(".show_menu").click(function() {
